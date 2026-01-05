@@ -25,12 +25,14 @@ A simple voice assistant built with Python that can:
 
 ---
 
-## 🚀 Features
-- Speech recognition (`speech_recognition`)
-- Text-to-speech (`pyttsx3` or similar)
-- Command routing via `handle_command()`
--  Hinglish stop messages for a friendly exit
-
+## ✨ Features 
+- 🎤 **Speech Recognition** - Understands your voice commands using `speech_recognition`.
+- 🔊 **Text-to-Speech** – Speaks back responses with `pyttsx3`.
+- 🌦️ **Weather Updates** – Get real-time weather for any city.
+- 📅 **Date & Time** – Ask for today’s date or current time.
+- 🔍 **Google Search** – Search the web instantly.
+- 📖 **Wikipedia Search** – Fetch summaries from Wikipedia.
+- 🛑 **Graceful Exit** – Hinglish farewell messages when you say *exit/quit/stop*. 
 
 ---
 
