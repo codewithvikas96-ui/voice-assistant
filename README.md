@@ -118,3 +118,19 @@ voice-assistant/
 
 ```
 
+---
+
+## 👨‍💻 Author
+Developed with ❤️ by Vikas Ajay Vishwakarma <br>  
+Feel free to fork, contribute, or suggest new features!
+
+---
+
+```
+
+👉 This README is **eye-catching, professional, and beginner-friendly**. It highlights features with emojis, explains setup clearly, and makes your project look polished on GitHub.  
+
+Would you like me to also generate a **requirements.txt** file for you so your repo is fully plug‑and‑play?
+```
+
+---
