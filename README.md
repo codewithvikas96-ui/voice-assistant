@@ -24,3 +24,9 @@ A simple voice assistant built with Python that can:
 - Exit gracefully with Hinglish stop messages
 
 ---
+
+## 🚀 Features
+- Speech recognition (`speech_recognition`)
+- Text-to-speech (`pyttsx3` or similar)
+- Command routing via `handle_command()`
+-  Hinglish stop messages for a friendly exit
