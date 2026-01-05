@@ -30,3 +30,28 @@ A simple voice assistant built with Python that can:
 - Text-to-speech (`pyttsx3` or similar)
 - Command routing via `handle_command()`
 -  Hinglish stop messages for a friendly exit
+
+
+---
+
+## System Architecture
+User (Voice)
+   ↓
+Microphone Input
+   ↓
+Speech Recognition Module
+   ↓
+Command Router
+   ↓
+Task Execution Layer
+   ├── Date and time
+   ├── Open applications
+   ├── Weather API
+   ├── Wikipedia service
+   ├── Google service
+   ↓
+Text-to-Speech Output
+   ↓
+User (Voice Response)
+
+---
