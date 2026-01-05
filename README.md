@@ -72,3 +72,18 @@ User (Voice Response)
 - `platform`
 
 ---
+
+## ▶️ Usage
+Run the assistant:
+```
+python app.py
+```
+
+Say commands like:
+- "Search for Rohit Sharma"
+- "Open Notepad"
+- "What's the weather in Mumbai?"
+- "Tell me the time"
+- "Stop"
+
+---
