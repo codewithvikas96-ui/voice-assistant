@@ -91,6 +91,30 @@ Say commands like:
 ## 🛑 Exit
 Say "exit", "quit", or "stop" to end the assistant. <br>
 You’ll hear a friendly Hinglish goodbye like: <br>
-"Assistant band ho raha hai, phir milte hain!" <br>
+  | "Assistant band ho raha hai, phir milte hain!" <br>
 
 ---
+
+## 📂 Project Structure
+```
+voice-assistant/
+├── backend/
+│   ├── app.py                  # Entry point
+│   ├── config.py               # Configuration & API keys
+│   ├── speech/
+│   │   ├── recognizer.py       # Speech-to-text
+│   │   └── speaker.py          # Text-to-speech
+│   ├── services/
+│   │   ├── date_time.py    # For Date and Time
+│   │   ├── open_application.py  # Opening applications and websites
+│   │   ├── weather_ser.py # Weather API
+│   │   └── wikipedia_ser.py        # Fetch summaries from Wikipedia
+│   ├── router/
+│       └── command_router.py   # Routes intents
+├── requirements.txt
+├── .env
+└── README.md
+
+
+```
+
