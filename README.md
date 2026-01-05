@@ -60,3 +60,15 @@ User (Voice Response)
 ```
 
 ---
+
+## 🛠️ Tech Stack 
+- **Python 3.9+**
+- `speech_recognition`
+- `pyttsx3`
+- `wikipedia`
+- `requests`
+- `webbrowser`
+- `os`
+- `platform`
+
+---
