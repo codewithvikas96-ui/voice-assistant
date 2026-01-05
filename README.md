@@ -35,6 +35,7 @@ A simple voice assistant built with Python that can:
 ---
 
 ## System Architecture
+```
 User (Voice)
    ↓
 Microphone Input
@@ -53,5 +54,7 @@ Task Execution Layer
 Text-to-Speech Output
    ↓
 User (Voice Response)
+
+```
 
 ---
