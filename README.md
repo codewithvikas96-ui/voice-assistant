@@ -12,3 +12,15 @@ This project builds an Advanced Voice Assistant capable of:
 - Integrating with third-party APIs for extended functionality
 
 This assistant is designed as a modular, scalable system, not just a basic speech-to-text script.
+
+---
+
+A simple voice assistant built with Python that can: 
+- Open applications
+- Search Wikipedia
+- Fetch weather information
+- Tell date and time
+- Perform Google searches
+- Exit gracefully with Hinglish stop messages
+
+---
