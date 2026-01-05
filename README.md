@@ -89,8 +89,8 @@ Say commands like:
 ---
 
 ## 🛑 Exit
-Say "exit", "quit", or "stop" to end the assistant.
-You’ll hear a friendly Hinglish goodbye like:
-"Assistant band ho raha hai, phir milte hain!"
+Say "exit", "quit", or "stop" to end the assistant. <br>
+You’ll hear a friendly Hinglish goodbye like: <br>
+"Assistant band ho raha hai, phir milte hain!" <br>
 
 ---
